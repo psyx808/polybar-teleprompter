@@ -1,0 +1,4 @@
+[module/dynamic]
+type = custom/script
+exec = <script path>
+tail = true
