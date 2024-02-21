@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # File path with phrases
-t="/home/error/.config/bspwm/rices/pamela/list"
+t="/home/error/.config/bspwm/list" # Change this to your list path
 a=0 
 
 while IFS= read -r line; do
