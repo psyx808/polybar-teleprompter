@@ -16,5 +16,5 @@ while IFS= read -r line; do
        fi 
     done
 a=0
-sleep 0.5 # Waiting time between each phrase
+sleep 0.5 # Waiting time between each quote
 done < "$t"
