@@ -1,6 +1,6 @@
 #!/bin/bash
 
-t="/home/error/.config/bspwm/list" # Change this to your list path
+t="$HOME/.config/bspwm/list" # Change this to your list path
 a=0 
 
 while IFS= read -r line; do
