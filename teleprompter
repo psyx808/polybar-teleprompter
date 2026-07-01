@@ -2,9 +2,9 @@
 t="/home/$USER/.news"
 venv="/home/$USER/.venvs/rss_feedparser"
 
-######################################################
+#######################################################
 # MODIFY THE VALUES BELOW TO ADAPT IT TO YOUR POLYBAR #
-######################################################
+#######################################################
 
 speed="0.1"   # Teleprompter speed ⚡
 next="0.5"  # Wait before next title jump ➡️
