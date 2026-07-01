@@ -3,3 +3,5 @@ https://github.com/humanerror808/Dynamic-polybar-text/assets/108977932/e647fa8a-
 https://github.com/user-attachments/assets/8ccbd460-97c3-4336-8b9c-b55165ab43cb
 
 https://github.com/user-attachments/assets/76aadab0-388a-4fe8-ad49-afb1b3cb1138
+
+https://github.com/user-attachments/assets/c5024480-6d2c-4ced-90bf-33d1bed40b76
